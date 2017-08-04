@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{99B57EE4-58A9-41B5-A187-C020BD6E59B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myMedical Status">
+    <Files>
+      <File FileName="myMedical Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.myMedical.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../MCS-App/MWM_Temp/MWM.Droid/Fragments/MWMBaseFragment.cs" line="130" offsetX="739" offsetY="1935" expression="CurrentActivity" liveUpdate="False" />
+    <Watch file="../../MCS-App/MCA/MCS.CA.iOS/Views/MCABaseView.cs" line="90" offsetX="414" offsetY="1185" expression="_baseViewModel" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.myMedical.IOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2619BBFC-CDCD-444A-9E85-6AB3FFD27B75" />
+  <AuthorInfo Name="sujeetkuar" Email="sujeetulli@gmail.com" Copyright="(c) sujeet kumar" Company="" Trademark="" />
+  <MultiItemStartupConfigurations />
+</Properties>

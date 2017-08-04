@@ -1,0 +1,9 @@
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/bin/Debug/myMedical.Core.pdb
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/bin/Debug/myMedical.Core.dll
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/obj/Debug/myMedical.Core.dll
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/obj/Debug/myMedical.Core.pdb
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/bin/Debug/MvvmCross.Core.dll
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/mcsinh-mac-pro/Projects/myMedical/myMedical.Core/bin/Debug/MvvmCross.Localization.dll
